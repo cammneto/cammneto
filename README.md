@@ -11,8 +11,8 @@ Welcome to my GitHub! I'm a **computational physicist** with a strong foundation
 
 ---
 ## 📊 Estatísticas
-| ![Carlos GitHub Stats](https://github-readme-stats.vercel.app/api?username=cammneto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Proggraming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cammneto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
-| --- | --- |
+![Carlos GitHub Stats](https://github-readme-stats.vercel.app/api?username=cammneto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) 
+![Proggraming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cammneto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
 
 ## 👨‍🔬 Academic Background
 - 🎓 **Bachelor's in Physics** – UFPA (2011)
