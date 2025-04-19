@@ -55,21 +55,25 @@ I'm currently focusing on:
 
 ### Stock Screener Bovespa  
 🔗 [cammneto/Stock-Screener-bovespa](https://github.com/cammneto/Stock-Screener-bovespa)  
-This Python toolkit scrapes and aggregates financial data for all stocks listed on B3 (São Paulo Stock Exchange) from four platforms—Status Invest, InvestSite, Investidor10, and Fundamentus—and exports clean, date‑stamped CSVs for downstream analysis :contentReference[oaicite:0]{index=0}.  
+This Python toolkit scrapes and aggregates financial data for all stocks listed on B3 (São Paulo Stock Exchange) from four platforms—Status Invest, InvestSite, Investidor10, and Fundamentus—and exports clean, date‑stamped CSVs for downstream analysis.
+
 **Key Features**  
-- Multi‑source data aggregation across Status Invest, InvestSite, Investidor10, and Fundamentus :contentReference[oaicite:1]{index=1}  
-- Automated sitemap parsing for dynamic discovery of stock pages :contentReference[oaicite:2]{index=2}  
-- Customizable scraping parameters and modular, scalable design :contentReference[oaicite:3]{index=3}  
-- CSV export with standardized naming for seamless integration into analytics pipelines :contentReference[oaicite:4]{index=4}  
+- Multi‑source data aggregation across Status Invest, InvestSite, Investidor10, and Fundamentus  
+- Automated sitemap parsing for dynamic discovery of stock pages  
+- Customizable scraping parameters and modular, scalable design  
+- CSV export with standardized naming for seamless integration into analytics pipelines  
+
+---
 
 ### Carrier Mobility  
 🔗 [cammneto/carrier-mobility](https://github.com/cammneto/carrier-mobility)  
-A Python package to estimate electronic carrier mobility in organic semiconductor dimers by parsing Gaussian09 `.log` outputs and applying both Marcus–Hush and Marcus–Levitch–Jortner models :contentReference[oaicite:5]{index=5}.  
+A Python package to estimate electronic carrier mobility in organic semiconductor dimers by parsing Gaussian09 `.log` outputs and applying both Marcus–Hush and Marcus–Levitch–Jortner models.
+
 **Highlights**  
-- Reads displacement vectors and transfer integrals from Gaussian09 outputs for any dimer system :contentReference[oaicite:6]{index=6}  
-- Implements Marcus–Hush and Marcus–Levitch–Jortner formalisms for accurate mobility estimation :contentReference[oaicite:7]{index=7}  
-- Modular helper utilities in `cmtools.py` for preparing inputs and processing results :contentReference[oaicite:8]{index=8}  
-- Includes example ethylene dimer workflow to illustrate setup and reproducibility :contentReference[oaicite:9]{index=9}  
+- Reads displacement vectors and transfer integrals from Gaussian09 outputs for any dimer system  
+- Implements Marcus–Hush and Marcus–Levitch–Jortner formalisms for accurate mobility estimation  
+- Modular helper utilities in `cmtools.py` for preparing inputs and processing results  
+- Includes example ethylene dimer workflow to illustrate setup and reproducibility  
 ---
 
 Thanks for stopping by! 👨‍💻
