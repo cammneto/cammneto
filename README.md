@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Carlos Alberto Moreira de Melo Neto
+# 👋 Hi, I'm Carlos de Melo
 
 Welcome to my GitHub! I'm a **computational physicist** with a strong foundation in **scientific programming**, **data analysis**, and **machine learning** — now channeling my expertise toward becoming a **data scientist**.
 - 📫 How to reach me: cammneto.pro@gmail.com
@@ -7,19 +7,7 @@ Welcome to my GitHub! I'm a **computational physicist** with a strong foundation
 
 ## 🛠️ Technologies & Tools
 
-[![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)](https://www.python.org)  
-[![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org)  
-[![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)](https://scipy.org)  
-[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org)  
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)](https://matplotlib.org)  
-[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4-ff69b4?logo=beautifulsoup&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/)  
-[![Fortran](https://img.shields.io/badge/Fortran-4EAA25?logo=fortran&logoColor=white)](https://fortran-lang.org)  
-[![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)  
-[![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)](https://www.latex-project.org/)  
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org)  
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org)  
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)  
-[![SLURM](https://img.shields.io/badge/SLURM-1A171B?logo=slurm&logoColor=white)](https://slurm.schedmd.com/)  
+[![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)](https://www.python.org) [![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org)  [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)](https://scipy.org) [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org)  [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)](https://matplotlib.org)  [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4-ff69b4?logo=beautifulsoup&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/)  [![Fortran](https://img.shields.io/badge/Fortran-4EAA25?logo=fortran&logoColor=white)](https://fortran-lang.org)  [![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)  [![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)](https://www.latex-project.org/)  [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org)  [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org)  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)  [![SLURM](https://img.shields.io/badge/SLURM-1A171B?logo=slurm&logoColor=white)](https://slurm.schedmd.com/)  
 
 ---
 ## 📊 Estatísticas
